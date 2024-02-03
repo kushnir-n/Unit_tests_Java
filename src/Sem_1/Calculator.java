@@ -15,7 +15,7 @@ public class Calculator {
         //проверка суммы на ноль
         assertThat(Calculator.calculatingDiscount(0, 10)).isEqualTo(0);
         //проверка % на ноль
-        assertThat(Calculator.calculatingDiscount(10, 0)).isEqualTo(10);
+        assertThat(Calculator.calculatingDiscount(100, 0)).isEqualTo(100);
     }
 
     public static int calculation(int firstOperand, int secondOperand, char operator) {
