@@ -1,6 +1,7 @@
 package Sem_1;
 
 import static org.assertj.core.api.Assertions.*;
+
 public class Calculator {
 
     public static void main(String[] args) { // тесты
