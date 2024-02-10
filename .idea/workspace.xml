@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d677789-177f-4a85-ac66-3a5b8120336b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sem_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sem_3/Test/TestsMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit_tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Unit_tests.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,28 +47,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Calculator.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.VehicleTest.executor": "Run",
-    "JUnit.All in Unit_tests.executor": "Run",
-    "JUnit.Test in Unit_tests.executor": "Run",
-    "JUnit.VehicleTest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "21",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Тестирование_обучение/2-й год/Unit тесты/assertj-core-3.25.1.jar",
-    "onboarding.tips.debug.path": "C:/Users/natal/IdeaProjects/Unit_tests/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.20229885"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VehicleTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in Unit_tests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test in Unit_tests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.VehicleTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Тестирование_обучение/2-й год/Unit тесты/assertj-core-3.25.1.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/natal/IdeaProjects/Unit_tests/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.20229885&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.Test in Unit_tests">
     <configuration name="All in Unit_tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />

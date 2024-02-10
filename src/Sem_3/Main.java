@@ -15,7 +15,7 @@ public class Main {
     //Задание 2.
     //Разработайте и протестируйте метод numberInInterval, который проверяет, попадает ли переданное число в интервал (25;100). (код приложен в презентации)
     public static boolean numberInInterval(int n) {
-        if (n > 24 && n < 101) {
+        if (n > 25 && n < 100) {
             return true;
         }
         else {

@@ -17,13 +17,13 @@ public class TestsMain {
     //тесты для метода numberInInterval
     @Test
     void checkInInterval() {
-        assertTrue(Main.numberInInterval(25));
-        assertTrue(Main.numberInInterval(100));
+        assertTrue(Main.numberInInterval(26));
+        assertTrue(Main.numberInInterval(99));
     }
     @Test
     void checkNotInInterval() {
-        assertFalse(Main.numberInInterval(24));
-        assertFalse(Main.numberInInterval(101));
+        assertFalse(Main.numberInInterval(25));
+        assertFalse(Main.numberInInterval(100));
         assertFalse(Main.numberInInterval(0));
     }
 }
